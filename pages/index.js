@@ -29,8 +29,8 @@ export default function Index() {
                 <section id="demos" className="section background-grey spdtb">
                     <div className="container">
                         <div className="heading align-center mb32">
-                            <h2 className="heading-title size-l">27+ Unique Demos</h2>
-                            <div className="heading-desc size-l w600 color-navy">No Coding Required</div>
+                            <h2 className="heading-title size-l">50+ Soluciones para el nuestro dia a dia</h2>
+                            <div className="heading-desc size-l w600 color-navy">Compartenos tus ideas</div>
                         </div>
                         <div className="block-list layout-01 block-flex-center block-list-flex mb60">
                             <ul>
