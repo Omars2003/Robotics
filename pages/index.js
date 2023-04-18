@@ -9,9 +9,9 @@ export default function Index() {
                     <div className="container">
                         <div className="heading align-center mb32">
                             <div className="heading-sub color-navy w600">Full Dark More</div>
-                            <h2 className="heading-title size-xxl">Startup &amp; SaaS <br /> HTML Template</h2>
-                            <div className="heading-desc">By using this theme anyone can build Startup, SaaS, Apps, Crypto,
-                                <br /> Web3, Software, IT services…website</div>
+                            <h2 className="heading-title size-xxl">Robots &amp; con inteligencia artificial para cualquier funcion <br /> HT</h2>
+                            <div className="heading-desc">Diseña el robot de tus sueños para ti tu empresa o tu familia,
+                                <br /> hacemos realidades tud ideas</div>
                         </div>
                         <div className="button-wrap popup-wrapper align-center">
                             <Link href="/demos" className="button fullfield" title="Explore Demos">Explore Demos</Link>
