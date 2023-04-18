@@ -5,7 +5,7 @@ const PageHead = ({ headTitle }) => {
         <>
             <Head>
                 <title>
-                    {headTitle ? headTitle : "Sala - Multipurpose Startup SaaS NextJS Template"}
+                    {headTitle ? headTitle : " Startup SaaS NextJS Template"}
 
                 </title>
                 <link
