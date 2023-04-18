@@ -34,15 +34,15 @@ export default function Index() {
                             <ul>
                                 <li>
                                     <i className="las la-check" />
-                                    <span>Full Responsive</span>
+                                    <span>Proyectos a tu medida</span>
                                 </li>
                                 <li>
                                     <i className="las la-check" />
-                                    <span>Full Dark Mode</span>
+                                    <span>soporte 24/7</span>
                                 </li>
                                 <li>
                                     <i className="las la-check" />
-                                    <span>Easy To Customize</span>
+                                    <span>Calidad en todo momento</span>
                                 </li>
                             </ul>
                         </div>
