@@ -9,9 +9,9 @@ export default function Startup_Section1() {
                         <div className="col-lg-6">
                             <div className="pdr100">
                                 <div className="heading mb32">
-                                    <div className="heading-sub layout-02">Startup</div>
+                                    <div className="heading-sub layout-02">RobotIA</div>
                                     <h2 className="heading-title size-xl">The <span className="no-underline background-04">template</span> your startup needed</h2>
-                                    <div className="heading-desc">Awesome product pages. Mobile friendly. Easy.</div>
+                                    <div className="heading-desc">Soluciones para todos y de todos</div>
                                 </div>
                                 <div className="button-wrap">
                                     <Link href="/contact-01" className="button fullfield" title="Les't talk - Send a message">Les't talk - Send a message</Link>
