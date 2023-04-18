@@ -13,9 +13,7 @@ export default function Index() {
                             <div className="heading-desc">Diseña el robot de tus sueños para ti tu empresa o tu familia,
                                 <br /> hacemos realidades tud ideas</div>
                         </div>
-                        <div className="button-wrap popup-wrapper align-center">
-                            <Link href="/demos" className="button fullfield" title="Explore Demos">Explore Demos</Link>
-                        </div>
+                        
                         <div className="images layout-18 mt32">
                             <img src="/assets/images/html5.svg" alt="Hmlt5" />
                             <img src="/assets/images/css3.svg" alt="Css3" />
