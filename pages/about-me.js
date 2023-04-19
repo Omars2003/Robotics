@@ -10,9 +10,10 @@ export default function AboutMe() {
                         <div className="col-lg-6">
                             <div className="content-left spdtb">
                                 <div className="heading">
-                                    <div className="heading-sub">About me</div>
-                                    <h2 className="heading-title size-xl">I'm Kristina, a designer based in London, UK</h2>
-                                    <div className="heading-desc">Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas.</div>
+                                    <div className="heading-sub">Acerca de nosotros</div>
+                                    <h2 className="heading-title size-xl">Somos una empresa que desarrolla soluciones enfocadas a la sociedad.</h2>
+                                    <div className="heading-desc">Diseñamos y desarrollamos ingeniera usando inteligencia artificial personalizada en  el enfoque de cada industria  y cada necesidad.</div>
+                                                                                                   
                                 </div>
                             </div>
                             <section className="section">
